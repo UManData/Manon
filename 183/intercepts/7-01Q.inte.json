@@ -1,11 +1,12 @@
 {
     "Ar36": {
-        "error": 0.006020360109213886,
+        "error": 0.0011851166865769875,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
-            "iterations": 0,
-            "std_devs": 0,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -15,7 +16,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.19345865426614012
+        "value": 0.19345865426614003
     },
     "Ar37": {
         "error": 0.060586800862148675,
@@ -36,12 +37,13 @@
         "value": 9.35824362231605
     },
     "Ar38": {
-        "error": 0.0615072053254526,
+        "error": 0.01210778326438498,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -51,15 +53,16 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.16107158825363788
+        "value": 0.16107158825363782
     },
     "Ar39": {
-        "error": 0.05703573463149571,
+        "error": 0.011227567722986038,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -69,15 +72,16 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 3.94733747651928
+        "value": 3.9473374765192757
     },
     "Ar40": {
-        "error": 0.36368096636832853,
+        "error": 0.07159112976878462,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",

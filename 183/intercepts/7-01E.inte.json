@@ -1,11 +1,12 @@
 {
     "Ar36": {
-        "error": 0.019501771889496478,
+        "error": 0.0038388119303166906,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
-            "iterations": 0,
-            "std_devs": 0,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -36,12 +37,13 @@
         "value": 5.724759305971674
     },
     "Ar38": {
-        "error": 0.060976459812336195,
+        "error": 0.012002866340680823,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -51,15 +53,16 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.48378343466124163
+        "value": 0.4837834346612415
     },
     "Ar39": {
-        "error": 0.051445196414939255,
+        "error": 0.010126691814168967,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -69,15 +72,16 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.825835325787555
+        "value": 0.8258353257875546
     },
     "Ar40": {
-        "error": 0.48107511274410586,
+        "error": 0.09469687639896725,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",

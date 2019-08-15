@@ -1,11 +1,12 @@
 {
     "Ar36": {
-        "error": 0.006302409170206378,
+        "error": 0.001238427048431727,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
-            "iterations": 0,
-            "std_devs": 0,
+            "iterations": 1,
+            "std_devs": 2,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -15,7 +16,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.2105722320345899
+        "value": 0.21057223203458988
     },
     "Ar37": {
         "error": 0.06622553564825161,
@@ -36,12 +37,13 @@
         "value": 11.994313529767798
     },
     "Ar38": {
-        "error": 0.06229779371844676,
+        "error": 0.012241552510310632,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -54,12 +56,13 @@
         "value": 0.5284363851353446
     },
     "Ar39": {
-        "error": 0.06113037240516412,
+        "error": 0.012012153546796887,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
@@ -69,15 +72,16 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 10.983116890298172
+        "value": 10.983116890298176
     },
     "Ar40": {
-        "error": 0.8081982765648396,
+        "error": 0.15881142895725953,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
             "iterations": 0,
             "std_devs": 0,
+            "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
